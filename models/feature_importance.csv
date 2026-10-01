@@ -1,0 +1,64 @@
+feature,importance
+contract_type_Month-to-month,0.1992515090948914
+contract_type_Two year,0.08838977177978279
+contract_type_One year,0.06523201452313167
+support_intensity,0.06304054763427125
+total_charges,0.03657130397034416
+support_tickets,0.036332358275500826
+average_monthly_spend,0.0354272969251984
+monthly_charges,0.03526647525865954
+customer_value,0.03453314115770117
+tenure_months,0.033123259627832906
+satisfaction_score,0.03214085279338578
+response_time,0.02461258433491154
+engagement_score,0.02347394603384365
+complaint_rate,0.02301411864059049
+age,0.021699065972219402
+usage_frequency,0.02144155166374695
+complaints,0.019921087841021003
+service_issues,0.01978449692955278
+last_activity_days,0.019481463717646065
+login_frequency,0.01602735902074959
+number_of_services,0.00902097189608176
+service_adoption_rate,0.008773105970840307
+add_on_count,0.008121366154037756
+tenure_group_49+ months,0.007606643349672739
+dependents,0.00673892821598438
+monthly_charge_band_High,0.006561294150378251
+service_type_Fiber Optic,0.006228908536233754
+payment_method_Electronic check,0.0052613962306834895
+monthly_charge_band_Medium,0.005191200061126908
+payment_risk_flag,0.005055312268556045
+high_value_customer,0.004538019257907162
+tenure_group_0-6 months,0.0043726264570101035
+service_type_DSL,0.003932484834515404
+marital_status_Married,0.0035033701720284943
+marital_status_Single,0.0034760385034958287
+gender_Male,0.003372240190530214
+signup_channel_Online,0.003360967539619454
+location_Urban,0.0033489964853920134
+occupation_Employed,0.0032678676948909567
+customer_segment_Standard,0.003188302915490972
+payment_method_Credit card,0.0030692567957850574
+gender_Female,0.0030516984424884095
+location_Suburban,0.0030419519811081303
+tenure_group_25-48 months,0.002912650095376684
+signup_channel_Retail Store,0.0028771198184972635
+recent_inactivity_flag,0.0026921324955928505
+customer_segment_Premium,0.00268831390444291
+payment_method_Bank transfer,0.002626264087818821
+tenure_group_13-24 months,0.002368720915196976
+tenure_group_7-12 months,0.002337151134686835
+payment_method_Mailed check,0.0023135424647590186
+service_type_Cable,0.0020938764644771197
+signup_channel_Referral,0.002085660691296108
+location_Rural,0.0020264928220160286
+occupation_Self-Employed,0.0019603618937046666
+marital_status_Divorced,0.001762203537195401
+occupation_Retired,0.0014692881879433308
+occupation_Student,0.0014520443752295176
+customer_segment_Enterprise,0.0013934119840220073
+signup_channel_Telemarketing,0.001249878167835983
+occupation_Unemployed,0.0006928700554251104
+gender_Non-Binary,0.00015086360564444353
+monthly_charge_band_Low,0.0
